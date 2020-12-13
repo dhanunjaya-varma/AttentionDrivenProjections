@@ -21,8 +21,8 @@ python sterio2mono.py
 python copyfiles.py
 ```
 5. Run the following matlab program to decompose all the audio files into foreground and background.
-This Matlab code is borrowed from the authors of paper "[Singing-Voice Separation From Monaural Recordings Using Robust Principal Component Analysis](http://posenhuang.github.io/papers/RPCA_Separation_ICASSP2012.pdf)," ICASSP 2012.
 
+This Matlab code is borrowed from the authors of paper "[Singing-Voice Separation From Monaural Recordings Using Robust Principal Component Analysis](http://posenhuang.github.io/papers/RPCA_Separation_ICASSP2012.pdf)," ICASSP 2012.
 For more information, please check: https://sites.google.com/site/singingvoiceseparationrpca/
 ```
 cd ../rpca
